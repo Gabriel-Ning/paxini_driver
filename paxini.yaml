@@ -1,0 +1,7 @@
+paxini_config:
+  port: "/dev/ttyACM0"
+  type: "GEN2-IP-L5325"
+  control_box_mode: 5
+  sensor_connect_ids: [5, 6]
+  baudrate: 460800
+  taxel_nums: 120
